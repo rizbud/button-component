@@ -14,7 +14,7 @@ import {
 } from 'react-native';
 
 import styles from './style';
-import {apply} from '../../../src/themes/osmiProvider';
+import {apply} from '../../themes/osmiProvider';
 
 export enum ButtonType {
   PRIMARY = 'PRIMARY',
