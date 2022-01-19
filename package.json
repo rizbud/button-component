@@ -13,9 +13,10 @@
     "prestorybook": "rnstl"
   },
   "dependencies": {
-    "osmicsx": "^0.6.10",
+    "osmicsx": "^0.7.0-alpha.3",
     "react": "17.0.2",
-    "react-native": "0.66.4"
+    "react-native": "0.66.4",
+    "react-native-vector-icons": "^9.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
